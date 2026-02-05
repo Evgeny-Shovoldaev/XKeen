@@ -1799,17 +1799,7 @@ sudo sysctl -p
 
 **Купить кофе jameszero**
 
-* Монета USDT, сеть TRC20:
-```
-TB9dLwzNdLB6QeKV6w4FjCACSarePb32Dg
-```
-* Монета USDT, сеть TON:
-```
-UQDHmmyz0e1K07Wf7aTVtdmcGzCPfo4Pf7uBi_Id8TDI6Da6
-```
-[ЮMoney](https://yoomoney.ru/to/41001350776240)
-
-[CloudTips](https://pay.cloudtips.ru/p/7edb30ec)
+- [Поддержать проект форк XKeen](https://github.com/jameszeroX/XKeen?tab=readme-ov-file#поддержка-проекта)
 
 ---
 
